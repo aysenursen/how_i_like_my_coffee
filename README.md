@@ -1,16 +1,30 @@
-# how_i_like_my_coffee
+# ☕ How I Like My Coffee  
+*A personalized coffee recommendation app built with Flutter and Clean Architecture.*
 
-A new Flutter project.
+Helps coffee lovers discover what kind of coffee they truly enjoy — based on aroma, temperature (hot/cold), and origin preferences like **Ethiopia** or **Colombia**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features  
+- 🧭 Taste-based quiz & smart recommendations  
+- 🌍 Learn about coffee origins and flavor notes  
+- 💖 Save favorites & browse offline  
+- 🌓 Light/Dark mode  
+- 🧱 Built with Clean Architecture (MVVM)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧩 Tech Stack  
+- **Flutter**, **Dart**  
+- **State Management:** Riverpod  
+- **Dependency Injection:** get_it + injectable  
+- **Testing:** flutter_test, mocktail  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧱 Architecture  
+Follows **Clean Architecture** principles — separation of concerns, testability, and maintainability.
+
+---
+
+"How you like your coffee says a lot about you."
