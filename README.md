@@ -1,4 +1,4 @@
-# ☕ How I Like My Coffee  
+# ☕ How I Like My Coffee - A template for "MoodBrew"
 *A personalized coffee recommendation app built with Flutter and Clean Architecture.*
 
 Helps coffee lovers discover what kind of coffee they truly enjoy — based on aroma, temperature (hot/cold), and origin preferences like **Ethiopia** or **Colombia**.
